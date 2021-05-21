@@ -1,1 +1,3 @@
 # AlgorithmsAndDataStructures
+
+PWR<3
