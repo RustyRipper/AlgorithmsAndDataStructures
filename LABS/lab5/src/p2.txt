@@ -1,0 +1,9 @@
+190890890 Janiszewski Kamil 12.12.2001 ladowniczy 6000.0 15 600.0
+290890890 Lewandowska Agata 12.12.1999 ekspedientka 3900.0 13 390.0
+390890890 Mickiewicz Adam 12.12.1767 kierownik 3200.0 23 640.0
+490890890 Slowacki Juliusz 12.12.1987 ksiegowy 3100.0 14 310.0
+590890890 Kowalczyk Jakub 12.12.2002 analityk 3500.0 4 0.0
+690890890 Makara Maciej 12.12.2001 kierownik 5500.0 11 550.0
+790890890 Chudy Zbigniew 12.12.1989 kierowca 4100.0 10 410.0
+890890890 Polak Jan 12.12.1997 kierowca 3000.0 13 300.0
+990890890 Kubica Karol 12.12.2002 ksiegowy 3000.0 12 300.0
