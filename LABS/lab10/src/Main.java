@@ -11,7 +11,7 @@ public class Main {
 
 
         BST bst = createBST(priorityQueue);
-
+int i;
         bst.codeTree();
         bst.showCodes();
 
