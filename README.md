@@ -15,6 +15,6 @@ To-do lists and my solutions are in this repo.
 * LAB 8    5/5
 * LAB 9  4,5/5
 * LAB 10   5/5
-* LAB 11 
-* LAB 12 
-* LAB 13 
+* LAB 11   5/5
+* LAB 12   5/5
+* LAB 13   5/5
